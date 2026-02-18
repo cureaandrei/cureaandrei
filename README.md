@@ -35,6 +35,7 @@ High-performance embedded system project enabling Ethernet communication between
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei curea" height="30" width="40" />
 </a>
 </p>
+
 ![matrix](https://github.com/user-attachments/assets/5135440a-929c-4f93-b8d4-de8ffb979909)
 
 
