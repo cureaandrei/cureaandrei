@@ -38,8 +38,8 @@ High-performance embedded system project enabling Ethernet communication between
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei curea" height="30" width="40" />
 </a>
 </p>
-![gtd91xvup9b51](https://github.com/user-attachments/assets/5eff3c27-9675-46f0-9caf-be7fdef3757d)
 
+![matrix](https://github.com/user-attachments/assets/78f46e15-a74d-4625-a67a-f7608bbd36bf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
