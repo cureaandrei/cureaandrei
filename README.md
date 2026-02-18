@@ -19,6 +19,8 @@ Developed using React, Node.js, and modern JavaScript, focusing on responsive UI
 High-performance embedded system project enabling Ethernet communication between a Xilinx Zynq-7020 and an NVIDIA Jetson Orin Nano, integrating hardware/software co-design and CUDA-accelerated data processing on the Jetson platform.
 </p>
 
+
+
 - 🔭 I’m currently working on **a Spotify-inspired full-stack music streaming application**
 
 - 🌱 I’m currently learning **Django and containerization with Docker**
