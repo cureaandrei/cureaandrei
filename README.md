@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">Computer Science Engineering student focused on software development and embedded systems</h3>
+<h3 align="center">Passionate coder</h3>
+
+<p>
+I'm a computer science student currently based in Romania.
+I love coding and I'm passionate about app development. My goal is to become a full-stack developer. I'm equally interested in hardware acceleration and embedded systems.
+</p>
+
+<p><b>My most relevant projects:</b></p>
+
+<p>
+- <b>Online messaging app:</b><br>
+A real-time web messaging application hosted on cloud infrastructure, enabling multi-user communication through chat rooms.
+Developed using React, Node.js, and modern JavaScript, focusing on responsive UI and real-time interaction.
+</p>
+
+<p>
+- <b>Ethernet Communication between Zynq 7020 and Jetson Orin Nano:</b><br>
+High-performance embedded system project enabling Ethernet communication between a Xilinx Zynq-7020 and an NVIDIA Jetson Orin Nano, integrating hardware/software co-design and CUDA-accelerated data processing on the Jetson platform.
+</p>
 
 - 🔭 I’m currently working on **a Spotify-inspired full-stack music streaming application**
 
@@ -48,6 +66,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 </p>
-
-<p>
-
