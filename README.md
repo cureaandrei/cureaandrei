@@ -9,7 +9,7 @@
 
 - 🤝 I’m seeking to deepen my understanding of **Docker and scalable deployment**
 
-- 💬 Ask me about **Java, C++, or low-level programming**
+- 💬 Ask me about **Java or C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
