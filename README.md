@@ -1,3 +1,6 @@
+
+![code](https://github.com/user-attachments/assets/c84d0a40-4063-474b-8020-f31f9ef4d84d)
+
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">Passionate coder</h3>
 
@@ -35,6 +38,8 @@ High-performance embedded system project enabling Ethernet communication between
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei curea" height="30" width="40" />
 </a>
 </p>
+![download](https://github.com/user-attachments/assets/8fb77697-12d4-46cc-b5b6-5cdecf2d74f8)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
