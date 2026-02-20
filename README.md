@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">Computer Science Engineering student focused on software development and embedded systems</h3>
 
 <p>
 I'm a computer science student currently based in Romania.
